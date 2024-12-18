@@ -1,0 +1,2 @@
+name = input("What is your name?")
+print("\n\n\n\n\t\t\t\t\t\t\t\t\t\t*\n\n\n\n\t\t\t\t\t\t\t\t\t*\t*\t*\n\n\n\n\t\t\t\t\t\t\t\t*\t*\t*\t*\t*\n\n\n\n\t\t\t\t\t\t\t*\t\tHi\t!\t" + name + "\t\t*\n\n\n\n\t\t\t\t\t\t\t\t*\t*\t*\t*\t*\n\n\n\n\t\t\t\t\t\t\t\t\t*\t*\t*\n\n\n\n\t\t\t\t\t\t\t\t\t\t*")
